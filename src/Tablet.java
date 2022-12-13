@@ -3,6 +3,7 @@ public class Tablet extends techEquipments{
         super(brand, model, color, price, expirationYear, isSecondHand);
     }
     public void play(){
-        System.out.println("it is palying");
+        System.out.println("it is  good palying");
+
     }
 }
